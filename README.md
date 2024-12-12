@@ -12,4 +12,5 @@ loops_3.sh: Shows a for loop iterating over a list of elements (Hydrogen, Helium
 [View loops_4.sh](loops_4.sh)
 loops_4.sh: Demonstrates a for loop with a step value, iterating from 0 to 25 in steps of 5 and printing a welcome message.
 
-
+# OUTPUT
+![loopPicture1](loopPicture1.png) ![loopPicture2](loopPicture2.png)
